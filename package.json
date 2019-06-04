@@ -1,0 +1,15 @@
+{
+  "name": "krisu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "krisssuu.js",
+  "scripts": {
+    "start": "node krisssuu.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.11.0",
+    "puppeteer-extra": "^2.1.3"
+  }
+}
